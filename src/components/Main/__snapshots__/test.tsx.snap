@@ -3,7 +3,10 @@
 exports[`<Main /> should render the heading 1`] = `
 <div>
   <h1>
-    Ok
+    ok
+  </h1>
+  <h1>
+    dsiadisadmasida
   </h1>
 </div>
 `;
